@@ -1,3 +1,4 @@
-# Ticket-System
-Advanced Ticket System\n
+# Advanced Ticket System
 **Coming Soon..**
+
+https://discord.gg/blazezcommunity
